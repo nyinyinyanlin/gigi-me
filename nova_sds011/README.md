@@ -10,4 +10,4 @@ A repository for testing Nova SDS011 PM2.5 & PM10 AQI sensor data output. Nova S
 	5 -> GND
 	6 -> RX
 	7 -> TX
-```
+```reset the file of the data is command is conclued with data output and located with suitable transmission.

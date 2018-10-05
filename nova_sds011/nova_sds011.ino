@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial nova(5, 6);
+SoftwareSerial nova(19,18);
 
 void setup() {
   Serial.begin(9600);
